@@ -1,1 +1,1 @@
-This is a documentation repo for the VeoRide service API. See documentation [here](https://github.tamu.edu/GeoInnovation/node-veoride-documentation/wiki).
+This is a documentation repo for the VeoRide service API. See documentation [here](https://github.com/TamuGeoInnovation/TAMU.GeoInnovation.VeoRide.Documentation/wiki.
